@@ -8,5 +8,18 @@ namespace github.git
 {
     class Class1
     {
+        public bool name(int n)
+        {
+            return true;
+        }public bool name1(int n)
+        {
+            return true;
+        }public bool name2(int n)
+        {
+            return true;
+        }public bool name3(int n)
+        {
+            return true;
+        }
     }
 }
