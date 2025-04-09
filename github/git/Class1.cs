@@ -20,6 +20,9 @@ namespace github.git
         }public bool name3(int n)
         {
             return true;
+        }public bool name4(int n)
+        {
+            return true;
         }
     }
 }
